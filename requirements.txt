@@ -1,3 +1,4 @@
 tensorflow==2.2.0
 neptune-client==0.4.114
 -e git+git@github.com:neptune-ai/neptune-tensorboard.git@9c91b1f17342e3773071397e812e537ceb73055f#egg=neptune_tensorboard
+.history/
